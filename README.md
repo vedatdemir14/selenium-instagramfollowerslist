@@ -2,3 +2,4 @@
 ### Content of LoginInfo
 #### username = ""
 #### password = ""
+#### Also you need selenium driver for firefox 
